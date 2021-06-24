@@ -1,0 +1,31 @@
+FEAT Tag,Requirement text,Name,Priority,Status,Difficulty,Stability,Origin,Author,Location,Unique ID
+FEAT2,可以做链接类的东西 发布别的平台,外部链接分享,Medium,refuse,Medium,Medium,项目下达者,lzs,Database,2
+FEAT3,,第三方支付,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,3
+FEAT4,商家通过简便方便的流程，可快速发布到同小区范围内,快速发布,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,4
+FEAT5,是否被动接受团购信息可选择,选择性接受信息,Medium,refuse,Medium,Medium,项目下达者,lzs,Database,5
+FEAT6,团购信息的查询与团购商品的购买,搜索\查询\购买,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,6
+FEAT7,,配送时间方式的选择,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,7
+FEAT8,不选用第三方物流（初心：社区内 可信任度高,不选用第三方物流,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,8
+FEAT9,信用评级 打分 建模（情感维系）,打分评价系统,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,9
+FEAT10,智能推荐体系，团购商品智能对用户推荐,智能推荐,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,10
+FEAT11,消灭团长中间商,无代理团长,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,11
+FEAT12,不要单团购对多商品 多组合是极限了,单团购单商品,Medium,Approved,Medium,Medium,项目下达者,lzs,Database,12
+FEAT13,平台检测安全问题,平台检测商品安全,Medium,Proposed,Medium,Medium,项目下达者,lzs,Database,13
+FEAT14,商品可以送到自提点或送货上门,自定义提货点,Medium,Approved,Medium,Medium,团员,lzs,Database,14
+FEAT15,预支付券、优惠券等,预支付券,Medium,refuse,Medium,Medium,团员,lzs,Database,15
+FEAT16,社区动态分享,社区动态分享,Medium,Approved,Medium,Medium,团员,lzs,Database,16
+FEAT17,团购流产后，金额自动返回账户,流团自动退款,Medium,Approved,Medium,Medium,团员,lzs,Database,17
+FEAT18,,投诉团长机制,Medium,Approved,Medium,Medium,团员,lzs,Database,18
+FEAT19,,平台对团长考核,Medium,Proposed,Medium,Medium,团员,lzs,Database,19
+FEAT20,用户与团长进行交流,好友聊天,Medium,Approved,Medium,Medium,团员,lzs,Database,20
+FEAT21,简单的团购流程：团员报备——团长总结给商家——付款下单——商家发货——团长收货发货,简约流程,Medium,Approved,Medium,Medium,团员,lzs,Database,21
+FEAT22,看中物品，直接付钱（屏蔽中间过程对用户）,屏蔽团购中过程对团员用户,Medium,Approved,Medium,Medium,团员,lzs,Database,22
+FEAT23,对基本的用户信息管理,用户信息管理,Medium,Approved,Medium,Medium,管理员,lzs,Database,23
+FEAT24,申请团长的审核权限,审核团长,Medium,Approved,Medium,Medium,管理员,lzs,Database,24
+FEAT25,用户反馈处理与回复功能,用户反馈与处理,Medium,Approved,Medium,Medium,管理员,lzs,Database,25
+FEAT26,价格足够低，有竞争力,低价,Medium,Proposed,Medium,Medium,游客,lzs,Database,26
+FEAT27,团购信息与活动信息要展示给游客，给予游客足够的吸引度,游客可获取团购基础信息,Medium,Approved,Medium,Medium,游客,lzs,Database,27
+FEAT28,良好的订单统计,订单统计,Medium,Approved,Medium,Medium,团长,lzs,Database,28
+FEAT29,在app上可以通知用户去哪里进行取货,取货点通知,Medium,Approved,Medium,Medium,团长,lzs,Database,29
+FEAT30,通过私聊解决用户一些问题处理,与用户私聊,Medium,Approved,Medium,Medium,团长,lzs,Database,30
+FEAT33,基于位置限定发布团购信息,基于定位,High,Proposed,Medium,Medium,项目下达者,lzs,Database,56
