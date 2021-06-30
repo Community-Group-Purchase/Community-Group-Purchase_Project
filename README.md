@@ -1,4 +1,4 @@
-## Community-Group-Purchase_Project 往期版本仓库说明
+## Community-Group-Purchase_Project 公告板说明
 
 
 ### <b>0. 分支声明</b>
