@@ -1,0 +1,81 @@
+"NONE Tag","Requirement text","Name","Unique ID","Location","Package","Author","Revision","Date","Reason","Traced-from","Traced-to","RootTag#"
+"NONE1","","性能要求","57","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 15:51","Requirement created.
+NAME: <no entry> - 性能要求.
+REQTEXT: <no entry>","","","1"
+"NONE1.1","本app和管理网站的数据信息与信息同步","信息同步","58","Database","Nonfunctional requirements","lzs","1.0002","2021-6-1 15:52","Reparented. Tag was changed from NONE2 to NONE1.1.","","","1"
+"NONE1.2","保存注册用户2k人，并发用户为200人","用户量并发量","59","Database","Nonfunctional requirements","lzs","1.0001","2021-6-1 16:10","NAME: 用户量需求 - 用户量并发量.","","","1"
+"NONE1.3","软件一次响应的平均时间为2s，最大不超过5s","响应时间","60","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 15:53","Requirement created.
+NAME: <no entry> - 响应时间.
+REQTEXT: 软件一次响应的平均时间为2s，最大不超过5s","","","1"
+"NONE1.4","启动时长不超过15s","软件启动时长","61","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 15:53","Requirement created.
+NAME: <no entry> - 软件启动时长.
+REQTEXT: 启动时长不超过15s","","","1"
+"NONE1.5","耗电量较低，不操作就自动休眠","耗电量较低，不操作就自动休眠","62","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 15:55","Requirement created.
+NAME: <no entry> - 耗电量较低，不操作就自动休眠.
+REQTEXT: 耗电量较低，不操作就自动休眠","","","1"
+"NONE1.6","本地下载部分内容，无需长时间消耗流量，2G/3G情况下提示正常。","网络需求","63","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 15:55","Requirement created.
+NAME: <no entry> - 网络需求.
+REQTEXT: 本地下载部分内容，无需长时间消耗流量，2G/3G情况下提示正常。","","","1"
+"NONE3","","可靠性需求","64","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 15:55","Requirement created.
+NAME: <no entry> - 可靠性需求.
+REQTEXT: <no entry>","","","3"
+"NONE3.1","每月1号凌晨2点到凌晨6点会对软件进行维护，保证用户软件在白天可以正常运行","定期维护","65","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:04","Requirement created.
+NAME: <no entry> - 定期维护.
+REQTEXT: 每月1号凌晨2点到凌晨6点会对软件进行维护，保证用户软件在白天可以正常运行","","","3"
+"NONE3.2","本地记录不需要联网，可以随时使用","本地数据无需网络浏览","66","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:05","Requirement created.
+NAME: <no entry> - 本地数据无需网络浏览.
+REQTEXT: 本地记录不需要联网，可以随时使用","","","3"
+"NONE3.3","社区部分使用时需要接入网络，断开网络会导致社区部分无法正常使用","社区部分使用网络","67","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:05","Requirement created.
+NAME: <no entry> - 社区部分使用网络.
+REQTEXT: 社区部分使用时需要接入网络，断开网络会导致社区部分无法正常使用","","","3"
+"NONE4","","可维护性与可扩展性需求","68","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:06","Requirement created.
+NAME: <no entry> - 可维护性与可扩展性需求.
+REQTEXT: <no entry>","","","4"
+"NONE4.1","系统松散耦合，有完整的文档，易于维护
+","易于维护","69","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:06","Requirement created.
+NAME: <no entry> - 易于维护.
+REQTEXT: 系统松散耦合，有完整的文档，易于维护
+","","","4"
+"NONE5","","可用性需求","70","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:06","Requirement created.
+NAME: <no entry> - 可用性需求.
+REQTEXT: <no entry>","","","5"
+"NONE5.1","软件一次响应的平均时间为2s，最大不超过5s
+","响应时间","71","Database","Nonfunctional requirements","lzs","1.0001","2021-6-1 16:07","Reparented. Tag was changed from NONE6 to NONE5.1.","","","5"
+"NONE5.2","应用程序中所有操作均通过触摸屏幕完成，具有操作友好性
+","操作友好","72","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:10","Requirement created.
+NAME: <no entry> - 操作友好.
+REQTEXT: 应用程序中所有操作均通过触摸屏幕完成，具有操作友好性
+","","","5"
+"NONE5.3","保存注册用户2k人，并发用户为200人
+","用户量并发量","73","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:10","Requirement created.
+NAME: <no entry> - 用户量并发量.
+REQTEXT: 保存注册用户2k人，并发用户为200人
+","","","5"
+"NONE7","","安全性需求","74","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:13","Requirement created.
+NAME: <no entry> - 安全性需求.
+REQTEXT: <no entry>","","","7"
+"NONE7.1","一些危害性较大的操作有提示
+","危害性操作提示","75","Database","Nonfunctional requirements","lzs","1.0001","2021-6-1 16:14","Reparented. Tag was changed from NONE8 to NONE7.1.","","","7"
+"NONE7.2","实名认证信息不会储存在后台
+","信息保护","76","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:14","Requirement created.
+NAME: <no entry> - 信息保护.
+REQTEXT: 实名认证信息不会储存在后台
+","","","7"
+"NONE7.3","游客，团购参与者，团购发起者有权限界限
+","用户权限隔离","77","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:15","Requirement created.
+NAME: <no entry> - 用户权限隔离.
+REQTEXT: 游客，团购参与者，团购发起者有权限界限
+","","","7"
+"NONE9","","易用性需求","78","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:16","Requirement created.
+NAME: <no entry> - 易用性需求.
+REQTEXT: <no entry>","","","9"
+"NONE9.1","图标使用常用图标，基本选择RP默认图标库，部分图标使用阿里图标库中图标，基本图标旁都有文字介绍，清晰易懂。
+","常用图标","79","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:16","Requirement created.
+NAME: <no entry> - 常用图标.
+REQTEXT: 图标使用常用图标，基本选择RP默认图标库，部分图标使用阿里图标库中图标，基本图标旁都有文字介绍，清晰易懂。
+","","","9"
+"NONE9.2","用户手册介绍操作流程，部分操作有提示，部分操作可撤销
+","用户手册","80","Database","Nonfunctional requirements","lzs","1.0000","2021-6-1 16:16","Requirement created.
+NAME: <no entry> - 用户手册.
+REQTEXT: 用户手册介绍操作流程，部分操作有提示，部分操作可撤销
+","","","9"

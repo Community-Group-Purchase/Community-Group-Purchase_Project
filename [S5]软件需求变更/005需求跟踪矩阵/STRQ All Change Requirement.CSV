@@ -1,0 +1,4 @@
+"STRQ Tag","Requirement text","Name","Stakeholder Priority","Original","accept?","Location","Package","Revision","Date","Reason","Traced-from","Traced-to","RootTag#","Author"
+"STRQ1","","显示团长信用值","Medium","团员","no","Database","Requirement change","1.0010","2021-6-30 8:10","Created trace relationship to UC24.","","FEAT9, FEAT18, FEAT19, FEAT24, FEAT25, UC15, UC24","1","lzs"
+"STRQ2","","支持已完成团购的订单重新开启团购","Medium","团长","yes","Database","Requirement change","1.0004","2021-6-30 8:11","Created trace relationship to UC27.","","FEAT20, FEAT21, UC27","2","lzs"
+"STRQ3","","用户选择订阅团购通知","Medium","团长","yes","Database","Requirement change","1.0010","2021-6-30 8:10","Created trace relationship to UC18.","","FEAT5, FEAT10, FEAT27, FEAT29, UC6.1, UC6.10, UC18","3","lzs"
